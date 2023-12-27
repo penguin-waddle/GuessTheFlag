@@ -1,7 +1,16 @@
 # GuessTheFlag - A Flag Recognition Game
 
 ## Overview
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/penguin-waddle/GuessTheFlag/assets/123434744/8ba17f91-5606-47f3-a3c8-903d2323126a" alt="Guess The Flag App Demo" width="300" />
+    </td>
+    <td>
 'GuessTheFlag' is a fun, interactive game developed during the '100 Days of SwiftUI' course. The app challenges players to identify the country of origin for various flags. It's a simple yet engaging way to test your knowledge of world flags.
+    </td>
+  </tr>
+</table>
 
 ## Features
 - **Interactive Gameplay**: Players are presented with a random flag and must guess the country it represents from multiple options.
@@ -25,3 +34,5 @@
 Note: This app was a tutorial project from the ["100 Days of SwiftUI" course](https://www.hackingwithswift.com/100/swiftui) and was designed and implemented by me as part of my learning journey in iOS development.
 
 ---
+
+[Back to Main Repository](https://github.com/penguin-waddle/100-Days-of-SwiftUI)
