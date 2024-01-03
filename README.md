@@ -8,6 +8,8 @@
     </td>
     <td>
 'GuessTheFlag' is a fun, interactive game developed during the '100 Days of SwiftUI' course. The app challenges players to identify the country of origin for various flags. It's a simple yet engaging way to test your knowledge of world flags.
+<br><br>
+<em><b>Please Note:</b> This project demo was created and recorded in Swift Playgrounds on iPad, leading to an aspect ratio that may differ from the latest iPhone models.</em>
     </td>
   </tr>
 </table>
