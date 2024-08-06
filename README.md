@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/penguin-waddle/GuessTheFlag/assets/123434744/8ba17f91-5606-47f3-a3c8-903d2323126a" alt="Guess The Flag App Demo" width="300" />
+      <img src="https://github.com/penguin-waddle/GuessTheFlag/assets/123434744/8ba17f91-5606-47f3-a3c8-903d2323126a" alt="Guess The Flag App Demo" width="2100" />
     </td>
     <td>
 'GuessTheFlag' is a fun, interactive game developed during the '100 Days of SwiftUI' course. The app challenges players to identify the country of origin for various flags. It's a simple yet engaging way to test your knowledge of world flags.
